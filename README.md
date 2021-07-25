@@ -20,7 +20,8 @@ Our charts highlight the following data below.
 ![4](https://user-images.githubusercontent.com/81484054/126912584-806cdbcc-b603-45c8-93a1-3f63962079c0.png)
 
 -	Our Male riders tend to double our Female riders during the weekdays
-![5](https://user-images.githubusercontent.com/81484054/126912585-2b822015-5d65-492f-b6a4-35d7c6911172.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/81484054/126915088-291aada9-d03e-4999-8e3f-daa8f7704b74.png)
+
 
 -	The peak hours to ride in August was from 7pm-9pm
 ![6](https://user-images.githubusercontent.com/81484054/126912586-1f74ae4c-3b57-4aa9-afa6-303e8ce5b296.png)
