@@ -30,6 +30,6 @@ Our charts highlight the following data below.
 
 
 ## Results:
-
+After thoroughly reviewing each aspect of data, we can conclude the following CitiBike program would be beneficial for Des Moines, Iowa and its residents. As it shows that riders will actively checkout bikes during work commute hours of 7am-9am as well as 5pm-7pm for an average trip of 5-6 minutes, this will also correspond within Des Moines, Iowa. Now as weather is different and average distance traveled was not measured within the analysis, we would have to further investigate these factors that could affect the maximum amount of revenue from a CitiBike program within Des Moines, Iowa.
 
 Please find the following CitiBike analyzation here.
