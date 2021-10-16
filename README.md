@@ -1,6 +1,9 @@
 ## Overview:
   The following analysis highlights the CitiBike program used throughout New York City and its relationship with the riders. We have placed our data within Tableau to visually show results at different aspects. Our main focus is showing the positive factors that can possibly entertain investors of extending the CitiBike program within Des Moines, Iowa.
 
+## Technology Used:
+Tableau, Python, Pandas
+
 ## Summary:
 
 As previously explained, we have gathered the data and extracted visualized charts and graphs through Tableau. 
